@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">APICall7</string>
+    <string name="pokemon_details">POKEMON DETAILS</string>
+    <string name="back_button">back button</string>
+    <string name="profile_image">profile image</string>
+    <string name="upload_file_button">upload file button</string>
+    <string name="name">NAME</string>
+    <string name="abusour">Abusour</string>
+    <string name="id">ID</string>
+    <string name="textview">TextView</string>
+    <string name="height">HEIGHT</string>
+    <string name="_34cm">34cm</string>
+    <string name="weight">WEIGHT</string>
+    <string name="_25cm">25cm</string>
+    <string name="abilities">ABILITIES</string>
+    <string name="ability">jump, fly, cry, change color</string>
+    <string name="picashu">Picashu</string>
+    <string name="_32">32</string>
+    <string name="search_pokemon">search pokemon</string>
+    <string name="upload">UPLOAD</string>
+    <string name="image">IMAGE TO UPLOAD</string>
+    <string name="upload_picture">UPLOAD IMAGE</string>
+    <string name="network_is_unavailable_please_switch_on_your_network">Network is Unavailable, Please, Switch On your Network</string>
+</resources>
